@@ -1,4 +1,4 @@
-//Manage Messages
+//Manage Messages 
 require('dotenv').config();
 const { Client, GatewayIntentBits, Partials   } = require('discord.js');
 const { ApplicationCommandType, ApplicationCommandOptionType } = require('discord.js');
